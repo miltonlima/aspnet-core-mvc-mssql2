@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dotnet\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\dotnet\\aspnet-core-mvc-mssql2\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\dotnet\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\dotnet\\aspnet-core-mvc-mssql2\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dotnet\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\dotnet\\aspnet-core-mvc-mssql2\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\dotnet\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\dotnet\\aspnet-core-mvc-mssql2\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\mflima\\.nuget\\packages\\",
-        "outputPath": "C:\\dotnet\\MvcMovie\\obj\\",
+        "outputPath": "C:\\dotnet\\aspnet-core-mvc-mssql2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

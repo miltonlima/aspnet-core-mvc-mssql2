@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "128diaaogJY=",
+  "dgSpecHash": "Aog3qlmd0B8=",
   "success": true,
-  "projectFilePath": "C:\\dotnet\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\dotnet\\aspnet-core-mvc-mssql2\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mflima\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mflima\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
