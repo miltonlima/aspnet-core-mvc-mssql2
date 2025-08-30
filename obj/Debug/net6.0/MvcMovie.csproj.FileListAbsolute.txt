@@ -1065,3 +1065,4 @@ C:\dotnet\aspnet-core-mvc-mssql2\obj\Debug\net6.0\refint\MvcMovie.dll
 C:\dotnet\aspnet-core-mvc-mssql2\obj\Debug\net6.0\MvcMovie.pdb
 C:\dotnet\aspnet-core-mvc-mssql2\obj\Debug\net6.0\MvcMovie.genruntimeconfig.cache
 C:\dotnet\aspnet-core-mvc-mssql2\obj\Debug\net6.0\ref\MvcMovie.dll
+C:\dotnet\aspnet-core-mvc-mssql2\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
